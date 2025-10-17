@@ -245,3 +245,118 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [💫 Responsive web design](https://www.youtube.com/watch?v=6-pzw7HXimg)
 
 -------------------------------------------------------------------------------------------------------------------------------
+# 🥇 Advanced: (Week 21 - Week 24)
+## UI Design: Components & Variables:
+- [📽️ Video 1](https://www.youtube.com/watch?v=MDS1F_S8iJ8)
+- [📽️ Video 2](https://www.youtube.com/watch?v=9g-MzZ91k3I)
+- [📽️ Video 3](https://www.youtube.com/watch?v=xZjRhIS0H0c)
+- [📽️ Another resource pt.1](https://youtu.be/MeNNPaxT3UM?si=lj5jIdcFFfS7lpJe)
+- [📽️ Another resource pt.2](https://youtu.be/a6w1_ZaVhVo?si=H_g8kl8NlNz-fH-B)
+- [📽️ English resource 1](https://www.youtube.com/watch?v=BbTiMmnsjqE)
+- [📽️ English resource 2](https://youtu.be/fn4rP20U2UM?si=9CFgGzi8fb7_d2mI)
+--------------------------------------------------------------------------------------------------------------------------------
+
+## UX Advanced: Testing
+- [📽️ Arabic Video 1](https://www.youtube.com/watch?v=GCx0E883ZQ8)
+- [📽️ Arabic Video 2](https://youtu.be/bKtZ4PNryP4?si=oiyeZKfkGdrEAx1U)
+- [📽️ Arabic Video 3](https://youtu.be/qN0o3rYEsw4?si=GVcuwKxjFe8tUQSW)
+- [📽️ English Video 1](https://youtu.be/r3j_dwMbLo0?si=A9EUdXxV0AT-mrj8)
+- [📽️ English Video 2](https://youtu.be/hHvh_0Nnrx0?si=CXv_kHXXITW3CZBJ)
+- [📽️ English Video 3](https://www.youtube.com/watch?v=YFCistZV8wY)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Learn the laws:
+- [Laws of UX](https://lawsofux.com/)
+- [Laws of UI](https://uxdesign.cc/58-rules-for-stunning-and-effective-user-interface-design-ea4b93f931f6)
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+## Learn to use AI tools:
+- [UIzard](https://uizard.io/)
+- [Framer](https://www.framer.com/?via=quy-vu-manh&dub_id=wLNoE7KF5F8L6MwH&gad_source=1)
+- [Uxfolio](https://uxfol.io/)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Land a job & build a portfolio:
+- [📽️ Video 1](https://www.youtube.com/watch?v=MOX1Zgnazsg)
+- [📽️ Video 2](https://www.youtube.com/watch?v=uWrkzW-FbSY)
+- [📽️ Video 3](https://www.youtube.com/watch?v=95LL2zFCimM&list=PLjzhiGLyugKzB_pAKBapI6ZQscVe9bbX6&index=14)
+- [📽️ Video 4](https://www.youtube.com/watch?v=jmkxThf9_pY&list=PLjzhiGLyugKzB_pAKBapI6ZQscVe9bbX6&index=15)
+- [📽️ Video 5](https://www.youtube.com/watch?v=_1gtzDMdIOQ&list=PLjzhiGLyugKzB_pAKBapI6ZQscVe9bbX6&index=1)
+- [📽️ Video 6](https://youtu.be/geFcuqsViXE?si=XV5MRuBMAIhQfNxb)
+- [Article](https://blog.uxfol.io/ui-designer-portfolio/)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Templates:
+- [LinkedIn post](https://www.linkedin.com/posts/dehghanpoursamaneh_ux-uxdesign-uxui-activity-7371527881899974656-FqXx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADweRQEBAoYiRI_4MmSX6TTsySHmdD0wSzI)
+---------------------------------------------------------------------------------------------------------------------------------
+
+## 📝 Tasks:
+- Project to implement light & dark modes or different languages.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🎖️ Free courses with certificates:
+- [Sprint Up](https://sprints.ai/en-eg/journeys/SprintUpUIUXDesign/project/1)
+- [Udacity](https://www.udacity.com/course/product-design--ud509)
+- [Future Learn](https://www.futurelearn.com/courses/digital-skills-user-experience/28/todo/136740)
+- [Career Foundary](https://careerfoundry.com/en/short-courses/become-a-ux-designer/)
+- [Cardis](https://cradis.co/en/ondemand-courses/ux-audit-scholarship/)
+- [Edraak 1](https://www.edraak.org/programs/course/uxdesign-v1/)
+- [Edraak 2](https://www.edraak.org/programs/course/interactiondesign-v1/)
+- [Maraaf](https://www.m3aarf.com/certificate/28/%D9%83%D9%88%D8%B1%D8%B3-ui-ux-%D8%B4%D8%B1%D8%AD-%D8%B9%D8%B1%D8%A8%D9%89-%D9%83%D8%A7%D9%85%D9%84-%D9%84%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D8%A6%D9%8A%D9%8A%D9%86-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%88%D9%8A%D8%A8-video)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🎧 Podcasts & Communities:
+- [UX Breakfast](https://www.youtube.com/@UXBreakfast)
+- [UXaweya](https://www.youtube.com/@uxaweya6035)
+- [Caler Edwards](https://www.youtube.com/@CalerEdwards)
+- [UX Writing بالعربي](https://www.youtube.com/@UXWritingar)
+- [حكايات تصميمة](https://www.youtube.com/playlist?list=PLdSQhw3f39FO3C1c2lksZ2wVpBZR9Qq5R)
+- [بودكاست الشركة](https://www.youtube.com/watch?v=p3bHtTDGYws)
+- [The Lunch Break](https://youtu.be/n5KhfwI1wL8?si=3Ah73UFGXB5I8hSl)
+- [Figmaya](https://www.youtube.com/@Figmawya)
+- [The AI Voice](https://www.youtube.com/watch?v=KN4ijvI9qc8)
+- [UXaweya Group](https://www.facebook.com/groups/UXaweya)
+- [Learn UI UX Arabic](https://www.facebook.com/groups/uiuxforarab/?ref=share&mibextid=NSMWBT)
+- [Designer jobs](https://www.facebook.com/groups/UIUXWebDesignerjobsinEgypt/?ref=share&mibextid=NSMWBT)
+- [UI/UX Egypt](https://www.facebook.com/groups/uiuxegypt/?ref=share&mibextid=NSMWBT)
+- [Figma Arab Community](https://www.facebook.com/groups/1016808492225615/?ref=share&mibextid=NSMWBT)
+- [Egypt Community](https://www.facebook.com/groups/389429177883322/?ref=share&mibextid=NSMWBT)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 📖 Books
+- [Google Drive](https://drive.google.com/drive/folders/11rmt8_r_WcFIIU48oFHEq2E9cZem79iC)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Resources: 
+- [Google fonts](https://fonts.google.com/)
+- [Arab Fonts](https://arbfonts.com/)
+- [Coolors](https://coolors.co/)
+- [Color Adobe](https://color.adobe.com/create/color-wheel)
+- [Color Hunters](https://colorhunt.co/)
+- [Freepik](https://www.freepik.com/)
+- [Mockups](https://www.mockupworld.co/)
+- [Icons](https://www.svgrepo.com/)
+- [Images without background](https://www.pngegg.com/)
+- [Images Yandex](https://yandex.com/images/)
+- [Unsplash](https://unsplash.com/)
+- [Videos](https://www.videezy.com/)
+- [Videos resource](https://mixkit.co/)
+- [More videos](https://www.videvo.net/)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **▶️Our Contacts📱**
+<a href="https://www.facebook.com/haneen.al.metwally.2025"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="linkedin.com/in/haneen-elmetwally" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  
+<a href="https://www.facebook.com/profile.php?id=61550582845212"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dina-elhadedy-841172323/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+
+![TheOfficeMichaelScottGIF](https://github.com/user-attachments/assets/76451ea2-2466-45cc-8c42-759f348c1ed0)
